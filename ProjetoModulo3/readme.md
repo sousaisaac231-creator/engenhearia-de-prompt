@@ -17,7 +17,8 @@ Agendar horário na barbearia.
 
 - Breve explicação de como o protótipo funciona:Site de barbearia de agendamentos e serviços 
 
-> Coloque os arquivos de imagem ou PDF na pasta `/docs`.
+> [Projeto.pdf](https://github.com/user-attachments/files/27674625/Projeto.pdf)
+
 
 ---
 
@@ -43,21 +44,25 @@ Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code
 
 Liste pelo menos **3 limitações** percebidas:
 
-1. Não permitir mais de dois acessos.
-2. 
+1.Acesso limitado.
+2. Sistema complexo.
 3.
+
 ---
 
 ## 📚 Reflexão Crítica
 
 Explique como o grupo lidou com as limitações e quais soluções criativas foram propostas para contorná-las.
+COm a plataforma permitia que apenas duas pessoas tivesse acesso, apenas dois colaboradores fizeram o codigo.
 
 ---
 
 ## 👥 Colaboração
 
 Descreva como o grupo organizou as tarefas e responsabilidades entre os integrantes.
-
+Issac: Criou o prompt / ajudou na documentação
+Thiago: Refinou o codigo / ajudou na documentação
+Endheo: Fez documentação
 
 ---
 
