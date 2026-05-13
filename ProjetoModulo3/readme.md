@@ -13,7 +13,7 @@ Agendar horário na barbearia.
 
 ## 🖥️ Protótipo
 
-- Prints das telas ou link para a aplicação criada.
+- file:///C:/Users/ENDHEORODRIGUESDELIM/Downloads/projeto.html.
 
 - Breve explicação de como o protótipo funciona.
 
