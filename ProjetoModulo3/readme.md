@@ -15,7 +15,7 @@ Agendar horário na barbearia.
 
 - file:///C:/Users/ENDHEORODRIGUESDELIM/Downloads/projeto.html.
 
-- Breve explicação de como o protótipo funciona.
+- Breve explicação de como o protótipo funciona:Site de barbearia de agendamentos e serviços 
 
 > Coloque os arquivos de imagem ou PDF na pasta `/docs`.
 
